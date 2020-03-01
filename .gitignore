@@ -1,0 +1,6 @@
+*.sqlite3
+/path/migrations/**
+/static
+/venv
+*.key
+test.py
